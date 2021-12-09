@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecocos&layout=compact)
 
-[![commitcombo](http://commitcombo.com/theme?user={codecocos}&theme={theme}&v={version})](https://github.com/devxb/CommitCombo)
+[![commitcombo](http://commitcombo.com/theme?user=codecocos&theme=DeepOcean&v=1)](https://github.com/devxb/CommitCombo)
 
 
 
